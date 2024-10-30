@@ -1,0 +1,6 @@
+@ModelBinding_HostAddress = https://localhost:7083
+
+GET {{ModelBinding_HostAddress}}/api/products
+Accept: application/json
+
+###
